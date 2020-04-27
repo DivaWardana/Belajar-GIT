@@ -1,3 +1,4 @@
 Resolusi
 - bisa bekerja dengan git
 - bisa memakai git
+- bisa berkerja sama dengan developer lain
